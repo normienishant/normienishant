@@ -1,21 +1,22 @@
 <div align="center">
-<img src="https://gifdb.com/images/high/bear-greetings-hello-tqidf7g435medsnf.gif" align="center" style="width: 100%" />
+<img src="https://gifdb.com/images/high/bear-greetings-hello-tqidf7g435medsnf.gif" align="center" style="width: 90%" />
 </div>  
   
 
-### <div align="center">I'm Nishant, a full-stack developer, UI/UX Designer, ML Model developer, currently pursuing my Bachelors of Technology in AI and ML</div>  
+## <div align="center">I'm Nishant, a full-stack developer, UI/UX Designer, ML Model developer, currently pursuing my Bachelors of Technology in AI and ML</div>  
   
 
-🔭 I’m currently working on my [Portfolio Website](https://github.com/normienishant/myportfolio)  
+**🔭 I’m currently working on my [Portfolio Website](https://github.com/normienishant/myportfolio)**
+
   
 
-🌱 I’m currently learning Java  
+**🌱 I’m currently learning Java**
   
 
-❓ Ask me about anything related to Machine Learning and Web development.  
+**❓ Ask me about anything related to Machine Learning and Web development.**  
   
 
-⚡ Hobbies : Sports, Games, Music/Dance, Musical Instruments  
+**⚡ Hobbies : Sports, Games, Music/Dance, Musical Instruments**  
   
 
 <br/>  
