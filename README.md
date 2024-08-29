@@ -74,3 +74,11 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=normienishant&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+## My contributions 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/normienishant/normienishant/snake/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/normienishant/normienishant/snake/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/normienishant/normienishant/snake/snake.svg">
+</picture>
